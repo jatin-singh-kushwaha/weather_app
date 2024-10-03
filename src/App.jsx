@@ -1,4 +1,4 @@
-import WeatherApp from "./weatherApp"
+import WeatherApp from "./WeatherApp"
 // import './App.css'
 
 function App() {
